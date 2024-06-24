@@ -1,7 +1,5 @@
 # AI-Speech-to-text-form-filling-
 This application transcribes audio input, uses AI to fill forms based on the transcription, and prompts users for additional information if needed.
-### App Description
-
 
 
 ### Running the app
