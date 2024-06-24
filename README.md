@@ -2,9 +2,9 @@
 This application transcribes audio input, uses AI to fill forms based on the transcription, and prompts users for additional information if needed.
 ### App Description
 
-Our app processes voice input using OpenAI Whisper API, transcribes it into text, and uses Gemini AI to extract and fill form data. Users can add more information via text or additional voice inputs, ensuring complete and accurate form submission.
 
-### README
+
+### Running the app
 
 ## Speech-to-Text and Form Filling Application
 
